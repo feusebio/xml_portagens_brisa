@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EXTRACTO id="001774523/03/2013">
+    <MES_EMISSAO>Mar-2013</MES_EMISSAO>
+    <CLIENTE id="51551468">
+        <NIF>501104178</NIF>
+        <NOME>TIEL - TRANSPORTES E LOGISTICA, SA</NOME>
+        <MORADA>VENDAS DE MARIA</MORADA>
+        <LOCALIDADE>MACAS D. MARIA</LOCALIDADE>
+        <CODIGO_POSTAL>3254-908 MACAS D.MARIA</CODIGO_POSTAL>
+    </CLIENTE>
+    <IDENTIFICADOR id="600675720004">
+        <MATRICULA>75-LT-12</MATRICULA>
+        <REF_PAGAMENTO>10000668852</REF_PAGAMENTO>
+        <TRANSACCAO>
+            <DATA_ENTRADA>23-02-2013</DATA_ENTRADA>
+            <HORA_ENTRADA>13:00</HORA_ENTRADA>
+            <ENTRADA>Maia PV</ENTRADA>
+            <DATA_SAIDA>23-02-2013</DATA_SAIDA>
+            <HORA_SAIDA>13:16</HORA_SAIDA>
+            <SAIDA>No de Famalicao</SAIDA>
+            <IMPORTANCIA>3,85</IMPORTANCIA>
+            <VALOR_DESCONTO>0,00</VALOR_DESCONTO>
+            <TAXA_IVA>23</TAXA_IVA>
+            <VALOR_IVA>0,72</VALOR_IVA>
+            <OPERADOR>Estradas Portugal (EN)</OPERADOR>
+            <TIPO>Portagens</TIPO>
+            <DATA_DEBITO>01-03-2013</DATA_DEBITO>
+            <CARTAO>1129155</CARTAO>
+        </TRANSACCAO>
+        <TRANSACCAO>
+            <DATA_ENTRADA>null</DATA_ENTRADA>
+            <HORA_ENTRADA></HORA_ENTRADA>
+            <ENTRADA></ENTRADA>
+            <DATA_SAIDA>23-02-2013</DATA_SAIDA>
+            <HORA_SAIDA>16:39</HORA_SAIDA>
+            <SAIDA>IC 2</SAIDA>
+            <IMPORTANCIA>1,55</IMPORTANCIA>
+            <VALOR_DESCONTO>0,00</VALOR_DESCONTO>
+            <TAXA_IVA>23</TAXA_IVA>
+            <VALOR_IVA>0,29</VALOR_IVA>
+            <OPERADOR>Estradas Portugal (BA)</OPERADOR>
+            <TIPO>Portagens</TIPO>
+            <DATA_DEBITO>01-03-2013</DATA_DEBITO>
+            <CARTAO>1129155</CARTAO>
+        </TRANSACCAO>
+        <TRANSACCAO>
+            <DATA_ENTRADA>25-02-2013</DATA_ENTRADA>
+            <HORA_ENTRADA>09:28</HORA_ENTRADA>
+            <ENTRADA>Coimbra Norte</ENTRADA>
+            <DATA_SAIDA>25-02-2013</DATA_SAIDA>
+            <HORA_SAIDA>09:32</HORA_SAIDA>
+            <SAIDA>Ança</SAIDA>
+            <IMPORTANCIA>1,00</IMPORTANCIA>
+            <VALOR_DESCONTO>0,00</VALOR_DESCONTO>
+            <TAXA_IVA>23</TAXA_IVA>
+            <VALOR_IVA>0,19</VALOR_IVA>
+            <OPERADOR>Brisa Concessão Rodoviária (BR)</OPERADOR>
+            <TIPO>Portagens</TIPO>
+            <DATA_DEBITO>01-03-2013</DATA_DEBITO>
+            <CARTAO>1129155</CARTAO>
+        </TRANSACCAO>
+        <TRANSACCAO>
+            <DATA_ENTRADA>25-02-2013</DATA_ENTRADA>
+            <HORA_ENTRADA>10:50</HORA_ENTRADA>
+            <ENTRADA>Mira Nó</ENTRADA>
+            <DATA_SAIDA>25-02-2013</DATA_SAIDA>
+            <HORA_SAIDA>10:53</HORA_SAIDA>
+            <SAIDA>Mira PV</SAIDA>
+            <IMPORTANCIA>1,00</IMPORTANCIA>
+            <VALOR_DESCONTO>0,00</VALOR_DESCONTO>
+            <TAXA_IVA>23</TAXA_IVA>
+            <VALOR_IVA>0,19</VALOR_IVA>
+            <OPERADOR>BRISAL (BL)</OPERADOR>
+            <TIPO>Portagens</TIPO>
+            <DATA_DEBITO>01-03-2013</DATA_DEBITO>
+            <CARTAO>1129155</CARTAO>
+        </TRANSACCAO>
+        <TOTAL>1.723,90</TOTAL>
+        <TOTAL_IVA>322,33</TOTAL_IVA>
+    </IDENTIFICADOR>
+<IDENTIFICADOR id="600675720004">
+        <MATRICULA>75-LT-12</MATRICULA>
+        <REF_PAGAMENTO>10000668852</REF_PAGAMENTO>
+        <TRANSACCAO>
+            <DATA_ENTRADA>23-02-2013</DATA_ENTRADA>
+            <HORA_ENTRADA>13:00</HORA_ENTRADA>
+            <ENTRADA>Maia PV</ENTRADA>
+            <DATA_SAIDA>23-02-2013</DATA_SAIDA>
+            <HORA_SAIDA>13:16</HORA_SAIDA>
+            <SAIDA>No de Famalicao</SAIDA>
+            <IMPORTANCIA>3,85</IMPORTANCIA>
+            <VALOR_DESCONTO>0,00</VALOR_DESCONTO>
+            <TAXA_IVA>23</TAXA_IVA>
+            <VALOR_IVA>0,72</VALOR_IVA>
+            <OPERADOR>Estradas Portugal (EN)</OPERADOR>
+            <TIPO>Portagens</TIPO>
+            <DATA_DEBITO>01-03-2013</DATA_DEBITO>
+            <CARTAO>1129155</CARTAO>
+        </TRANSACCAO>
+	<TRANSACCAO>
+            <DATA_ENTRADA>25-02-2013</DATA_ENTRADA>
+            <HORA_ENTRADA>10:50</HORA_ENTRADA>
+            <ENTRADA>Mira Nó</ENTRADA>
+            <DATA_SAIDA>25-02-2013</DATA_SAIDA>
+            <HORA_SAIDA>10:53</HORA_SAIDA>
+            <SAIDA>Mira PV</SAIDA>
+            <IMPORTANCIA>1,00</IMPORTANCIA>
+            <VALOR_DESCONTO>0,00</VALOR_DESCONTO>
+            <TAXA_IVA>23</TAXA_IVA>
+            <VALOR_IVA>0,19</VALOR_IVA>
+            <OPERADOR>BRISAL (BL)</OPERADOR>
+            <TIPO>Portagens</TIPO>
+            <DATA_DEBITO>01-03-2013</DATA_DEBITO>
+            <CARTAO>1129155</CARTAO>
+        </TRANSACCAO>
+       <TOTAL>1.723,90</TOTAL>
+        <TOTAL_IVA>322,33</TOTAL_IVA>
+    </IDENTIFICADOR>
+    <TOTAL>72.892,15</TOTAL>
+    <TOTAL_IVA>13.204,01</TOTAL_IVA>
+</EXTRACTO>
+
